@@ -57,7 +57,8 @@ body {
     justify-content: center;
     text-align: center;
     padding: 0 5%;
-    background-color:#d85fbc;
+    background-image: url("https://img.freepik.com/free-vector/white-technology-background_23-2148390327.jpg");
+    background-size: cover;
 }
 
 .hero-content h1 {
@@ -380,4 +381,5 @@ body {
 
 .fade-in {
     animation: fadeIn 1s ease-out forwards;
+
 }
